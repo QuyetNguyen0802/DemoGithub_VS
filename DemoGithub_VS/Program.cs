@@ -3,4 +3,7 @@ MyDemo();
 void MyDemo()
 {
     Console.WriteLine("hello");
+    Console.WriteLine("hello");
+    Console.WriteLine("hello");
+    Console.WriteLine("hello");
 }
